@@ -20,21 +20,16 @@
 }
 .list-nav{
     padding: 10px;
-    /* background: hsl(0, 29%, 22%); */
-    /* height: 60px; */
     width: 100%;
 }
 .list-nav ul{
     display: flex;
     width: 100%;
     padding:10px ;
-    /* background: #9a7a7a; */
 }
 .list-nav ul li{
     list-style: none;
     margin-left: 6rem;
-    /* background: #000; */
-    /* width: 10%; */
 }
 .list-nav ul li a{
     text-decoration: none;
@@ -62,8 +57,6 @@
     margin-left: 11rem;
     width: 110px;
     padding: 5px;
-    /* margin-top: -6px; */
-    /* height: 33px; */
     border-style: none;
     cursor: pointer;
 }
@@ -72,7 +65,6 @@
     grid-template-columns: repeat(2,2fr);
     width: 100%;
     height: 110vh;
-    /* background: #61a151; */
 }
 .img-acueil img{
     margin-top: 35px;
@@ -139,7 +131,6 @@
     width: 100%;
     height: 84vh;
     margin: auto;
-    /* background: #e3e0e0; */
     cursor: pointer;
 }
 .card-1{
@@ -147,7 +138,6 @@
     width: 40%;
     margin-top: 30px;
     height: 70vh;
-    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
 }
 .card-1:hover{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -156,7 +146,6 @@
     margin: 30px;
 }
 .icon-card{
-    /* background: #28647e; */
     width: 25%;
     height: 130px;
     padding: 20px;
@@ -164,7 +153,6 @@
 .icon-card i{
     margin: 23px;
     font-size: 82px;
-    /* padding: 25px; */
 }
 .card-2{
     background: #fff;
@@ -183,7 +171,6 @@
     width: 100%;
     height: 40vh;
     position: absolute;
-    /* background-color: #81e309; */
     margin-top: 39rem;
     z-index: -1;
 }
@@ -196,7 +183,6 @@
     width: 100%;
     height: 25vh;
     margin-top: 20px;
-    /* background-color: #b49d9d; */
 }
 .nombre{
     position: relative;
@@ -205,21 +191,18 @@
     margin: 20px 35px;
     padding: 18px;
     border: 1px solid #5e554d;
-    /* background-color: #8e5050; */
 }
 .evolu{
     margin-bottom: -10px;
 }
 .evolu i{
     font-size: 32px;
-    /* background: #b89c9c; */
     color: #fca00d;
 }
 .nombre span{
     font-size: 20px;
     margin-left: 0.7rem;
     margin-top: -20rem;
-    /* background: #c59191; */
 }
 .p1{
     margin: 10px 1px 0px -18px;
@@ -236,7 +219,6 @@
     height: 30vh;
     margin-top: 54rem;
     background: #b4f9ee;
-    /*   */
     z-index: -1;
 }
 .sec4 h1{
@@ -319,7 +301,6 @@
     width: 100%;
     height: 60vh;
     margin-top: 108rem;
-    /* background: #f47676; */
     z-index: -1;
 }
 .sec6 h1{
@@ -328,14 +309,12 @@
 }
 .temoign{
     width: 30%;
-    /* box-shadow: 2px 3px 3px gray; */
     height: 35vh;
     margin: 20px 40px;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .text-temoign{
-    /* background: #dfadad; */
     height: 22vh;
     border-bottom: 1px solid gray;
 }
@@ -355,7 +334,6 @@
 .tof-moi{
     padding: 1px;
     margin-left: 12rem;
-    /* border-radius: 30px; */
 }
 .tof-moi img{
     width: 50px;
@@ -376,7 +354,6 @@
     display: flex;
 }
 .inscrit-text{
-    /* background: #bfd60f; */
     margin-top: 50px;
 }
 .inscrit-text p{
@@ -388,7 +365,6 @@
     margin-left: 0.4rem;
 }
 .inscrit-btn{
-    /* background: #d11414; */
     margin-left: 40rem;
 }
 .inscrit-btn button{
@@ -401,7 +377,6 @@
     position: absolute;
     width: 100%;
     height: 75vh;
-    /* background: #7ea773; */
     margin-top: 142rem;
     z-index: -1;
 }
@@ -411,11 +386,9 @@
     width: 99%;
     height: 70vh;
     margin: 5px;
-    /* background: #162ee4; */
 }
 .sec-icon1{
     width: 35%;
-    /* background: #502c2c; */
 }
 .sec-icon1 img{
     width: 100px;
@@ -431,14 +404,11 @@
 .icons-flex{
     width: 250px;
     margin: 20px;
-    /* padding: 20px; */
-    /* background: #e3caca; */
 }
 .icons-flex i{
     margin: 5px;
     padding: 10px;
     border-radius: 20px;
-    /* border: 2px solid gray; */
     color: white;
     background: #000;
     cursor: pointer;
@@ -448,7 +418,6 @@
 }
 .sec-icon2{
     width: 15%;
-    /* background: #495d20; */
 }
 .sec-icon2 h3{
     text-align: center;
@@ -474,7 +443,6 @@
 }
 .sec-icon3{
     width: 20%;
-    /* background: #6cdb1c; */
 }
 .sec-icon3 h3{
     text-align: center;
@@ -502,7 +470,6 @@
 }
 .sec-icon4{
     width: 30%;
-    /* background: #cf7b1a; */
 }
 .sec-icon4 h3{
     text-align: center;
